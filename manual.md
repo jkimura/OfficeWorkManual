@@ -13,5 +13,6 @@
 |資料代 |書籍<br>有料アプリ
 |資料代 |資料本<br>有料アプリ
 |交通費 |電車、バス代
+http://localhost:4242/practice/6-03_ajax/
 
 [![切手台](img/IMG_8973.jpeg)]
